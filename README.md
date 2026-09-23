@@ -91,6 +91,10 @@ docker run \
     bleckbeard/hiccup:latest
 ```
 
+#### Easypanel
+
+[Easypanel](https://easypanel.io) is a self-hosted Docker deployment platform, and Hiccup has a one-click deployment template there: https://easypanel.io/templates/hiccup
+
 #### Using a static site host
 
 You cann download the built file or build it yourself and deploy to a static site provider like netlify or github-pages (or any other way to host a static site). To persist the config, edit the local config file. You can always sync the version of your config file to this using the config editor.
